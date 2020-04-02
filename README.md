@@ -53,3 +53,5 @@ Los callbacks también pueden lanzar a su vez llamadas asíncronas, asi que pued
 ## Promesas
 
 ## Async / Await
+
+[Referencia a la documentación utilizada](https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono#callbacks "Referencia a la documentación utilizada")
